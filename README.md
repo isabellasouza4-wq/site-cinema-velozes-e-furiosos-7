@@ -1,4 +1,5 @@
-🎬 Site de Cinema - Velozes e Furiosos 7
+🎬 Site de Cinema - Velozes e Furiosos 7<br>
+
 🧩 Estrutura do projeto
 
 📁 Arquivos do projeto:
